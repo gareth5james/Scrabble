@@ -1,0 +1,15 @@
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\bin\Debug\net6.0\ScrabbleApp.exe
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\bin\Debug\net6.0\ScrabbleApp.deps.json
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\bin\Debug\net6.0\ScrabbleApp.runtimeconfig.json
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\bin\Debug\net6.0\ScrabbleApp.dll
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\bin\Debug\net6.0\ScrabbleApp.pdb
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\obj\Debug\net6.0\ScrabbleApp.csproj.AssemblyReference.cache
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\obj\Debug\net6.0\ScrabbleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\obj\Debug\net6.0\ScrabbleApp.AssemblyInfoInputs.cache
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\obj\Debug\net6.0\ScrabbleApp.AssemblyInfo.cs
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\obj\Debug\net6.0\ScrabbleApp.csproj.CoreCompileInputs.cache
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\obj\Debug\net6.0\ScrabbleApp.dll
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\obj\Debug\net6.0\refint\ScrabbleApp.dll
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\obj\Debug\net6.0\ScrabbleApp.pdb
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\obj\Debug\net6.0\ScrabbleApp.genruntimeconfig.cache
+C:\Users\redem\source\repos\ScrabbleApp\ScrabbleApp\obj\Debug\net6.0\ref\ScrabbleApp.dll
